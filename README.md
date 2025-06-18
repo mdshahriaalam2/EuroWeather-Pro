@@ -10,7 +10,7 @@ A modern, responsive web app that allows users to view a 7-day weather forecast 
 - Graceful error handling for API/network issues
 
 ## Demo
-![Screenshot](images/banner.jpg) <!-- Replace with your own screenshot if available -->
+![Screenshot](Banner.jpg) <!-- Replace with your own screenshot if available -->
 
 ## Getting Started
 
